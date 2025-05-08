@@ -1,4 +1,4 @@
-![discord](https://discord.c99.nl/widget/theme-1/508657312458604558.png)
+![discord](https://discord.c99.nl/widget/theme-1/600032463485665309.png)
 <h1 align="center">Hi 👋, I'm qwrtyy</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
